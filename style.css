@@ -21,3 +21,9 @@ body {
 #dataOutput {
     height: 420px;
 }
+
+@media screen and (max-width: 900px) {
+    .title {
+        margin-top: 50px;
+    }
+}
