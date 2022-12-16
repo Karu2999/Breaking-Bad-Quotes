@@ -9,7 +9,7 @@ body {
 }
 
 .title {
-    margin-top: 350px;
+    margin-top: 250px;
     font-size: 60px;
     text-decoration: underline;
 }
@@ -20,6 +20,7 @@ body {
 
 #dataOutput {
     height: 420px;
+    margin-bottom: 150px;
 }
 
 @media screen and (max-width: 900px) {
